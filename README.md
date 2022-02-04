@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I maintain [these Flutter plugins](https://pub.dev/publishers/wrbl.xyz/packages).
+
+I wrote [some blog posts](https://medium.com/@mwroblewski).
+
+[Contact and more](https://marcin.wroblewscy.eu).
+
 <!--
 **wrbl606/wrbl606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
